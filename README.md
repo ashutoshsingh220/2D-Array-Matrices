@@ -3,7 +3,7 @@
 ## Aim:
 To study and implement C++ 2D Array - Matrices.
 
-### Software used:
+## Software used:
 visual studio code
 
 #### Theory:
