@@ -6,10 +6,10 @@ To study and implement C++ 2D Array - Matrices.
 ## Software used:
 visual studio code
 
-#### Theory:
+## Theory:
 A 2D array in C++ is an array of arrays, meaning it's a collection of elements arranged in a grid or table with rows and columns. This type of array is commonly referred to as a matrix.
 
-##### Algorithm:
+## Algorithm:
 Displaying a string:
 Step 1: Start.
 
